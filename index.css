@@ -1,0 +1,52 @@
+*{
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+header{
+  background-color: rgb(43, 116, 226);
+  color: rgb(255, 255, 255);
+  padding: 10px;
+  margin-bottom: 0;
+}
+.card img {
+  max-width: 300%; 
+  height: auto; 
+  object-fit: cover; 
+  align-items: center;
+  margin: 10px;
+}
+.carousel-inner img{
+  
+  max-width: 70%;
+  height: auto; 
+  object-fit: contain;
+  margin: 10px;
+}
+.container{
+ 
+  display: block;
+  align-items: center;
+  margin-bottom: 15px;
+  margin-top: 15px;
+  padding: 20px;
+  margin: 20px;
+  width: 100%;
+}
+.card-header{
+  margin-bottom: 10px;
+  margin-top: 16px;
+}
+.card{
+  margin: 5px;
+  padding: 10px;
+  font-size: 20px;
+ 
+ 
+}
+
+.destaques-titulo{
+  margin: 16px;
+}
+
+
